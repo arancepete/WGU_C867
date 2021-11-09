@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WGU_C867_APete_Assessment", "WGU_C867_APete_Assessment\WGU_C867_APete_Assessment.vcxproj", "{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Debug|x64.ActiveCfg = Debug|x64
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Debug|x64.Build.0 = Debug|x64
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Debug|x86.Build.0 = Debug|Win32
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Release|x64.ActiveCfg = Release|x64
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Release|x64.Build.0 = Release|x64
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Release|x86.ActiveCfg = Release|Win32
+		{CAFCDA4A-D42E-4C62-BAFD-C1BEFE8EDB15}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E0E9DAF-3BCD-429A-9EB4-21D393287094}
+	EndGlobalSection
+EndGlobal
